@@ -47,6 +47,9 @@ const TEARDOWN_PROMPT = `You are a brutally honest but constructive startup anal
 **📊 Funding Probability Score: X/10**
 [1-sentence justification for the score]
 
+**💡 The One Thing That Could Save This**
+[1 specific, actionable pivot or insight that could change the outcome]
+
 Keep the tone sharp but not cruel. Make it genuinely useful.`;
 
 const ROAST_PROMPT = `Take the startup idea from the conversation context and give a BRUTALLY HARSH, no-mercy teardown. Channel your inner cynical Silicon Valley VC who has seen 10,000 failed startups. Be specific about why this will fail. Same format but much more savage:
